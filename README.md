@@ -21,6 +21,7 @@ Come and say hi if you're interested.
 ### Currently
 
 | | |
+| :-- | :-- |
 | **Rivermap** | Quantitative Developer — automated pipeline taking smart-beta index strategies from creation through backtesting to deployment. Built the firm's internal management system (18 daily users) and its centralised auth layer across 4+ applications. |
 | **HKUST School of Humanities** | Research Assistant — NLP and LLM tooling that automates thematic analysis across hundreds of qualitative and historical documents. |
 | **iGEM HKUST** | Dry Lab Team Lead — leading 9 people training transformers and CNNs to mine a non-model bacterium genome into a genetic-engineering toolkit. |
