@@ -37,7 +37,7 @@ Come and say hi if you're bored and looking for someone to talk to!
 
 ### Selected work
 
-**Intertextuality** — a work in progress digital humanities UI for an AI and ML backend for finding intertextualities across ancient Chinese tests.
+**Intertextuality** — a work in progress digital humanities UI template for an AI and ML backend for finding intertextualities across ancient Chinese tests.
 **ExposAI** — image-authenticity system pairing perceptual and cryptographic hashes to on-chain certificates via a registry smart contract on the Abelian QDay Testnet; synthetic-media detection with multimodal models on AWS Bedrock. *Built in 24 hours.*
 
 
