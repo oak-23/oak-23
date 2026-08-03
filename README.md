@@ -16,7 +16,7 @@ Hi there! I'm Oak, a Computer Engineering and Business undergraduate at HKUST. I
 
 What pulls me in is the point where a messy real-world problem meets a system that can actually hold it: replacing spreadsheet-and-email workflows with something 18 people trust every day, or training models to read a genome nobody has built tooling for yet. I like to build, learn, and share what comes out of it.
 
-Come and say hi if you're interested.
+Come and say hi if you're bored and looking for someone to talk to!
 
 ### Currently
 
