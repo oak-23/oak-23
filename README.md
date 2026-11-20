@@ -38,6 +38,7 @@ Come and say hi if you're bored and looking for someone to talk to!
 ### Selected work
 
 **iGEM** — cb-promoter-mining pipeline used to train & fine tune ML models and mine parts from C. butyricum & a codon optimiser that optimises genetic sequences for transcription in C. butyricum.
+
 **ExposAI** — image-authenticity system pairing perceptual and cryptographic hashes to on-chain certificates via a registry smart contract on the Abelian QDay Testnet; synthetic-media detection with multimodal models on AWS Bedrock. *Built in 24 hours.*
 
 
