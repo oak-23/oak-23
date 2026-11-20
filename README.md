@@ -31,13 +31,13 @@ Come and say hi if you're bored and looking for someone to talk to!
 </tr>
 <tr>
 <td valign="top" width="210"><b>iGEM HKUST</b></td>
-<td>Dry Lab Team Lead — leading 9 people training transformers and CNNs to mine a non-model bacterium genome into a genetic-engineering toolkit.</td>
+<td>Dry Lab Team Lead — leading 9 people training transformers and CNNs to mine a non-model bacterium genome into a genetic-engineering toolkit. Won Gold Medal at the 2026 Paris iGEM Grand Jamboree</td>
 </tr>
 </table>
 
 ### Selected work
 
-**Intertextuality** — a work in progress digital humanities UI template for an AI and ML backend for finding intertextualities across ancient Chinese tests.
+**iGEM** — cb-promoter-mining pipeline used to train & fine tune ML models and mine parts from C. butyricum & a codon optimiser that optimises genetic sequences for transcription in C. butyricum.
 **ExposAI** — image-authenticity system pairing perceptual and cryptographic hashes to on-chain certificates via a registry smart contract on the Abelian QDay Testnet; synthetic-media detection with multimodal models on AWS Bedrock. *Built in 24 hours.*
 
 
